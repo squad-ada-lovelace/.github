@@ -1,2 +1,0 @@
-## Squad Ada Lovelace
-
