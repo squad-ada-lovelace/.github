@@ -64,7 +64,7 @@ Durante o programa, trabalhamos em grupo para a realização de desafios prátic
 
 A WoMakersCode é a maior comunidade de tecnologia para mulheres da América Latina, focada em impulsionar o protagonismo feminino e a mobilidade social por meio da educação e da empregabilidade. A organização atua capacitando e conectando mulheres (cis e trans) ao mercado de trabalho através de cursos gratuitos, bootcamps, mentorias e parcerias corporativas, apoiando o desenvolvimento de suas carreiras desde o início até cargos de liderança.
 
-<img width=25% alt="logo_womakers" src="./assets/Logo-WoMakersCode-1024x1024.png" />
+<img width=25% alt="logo_womakers" src="../assets/Logo-WoMakersCode-1024x1024.png" />
 
 🔗 Saiba mais clicando [aqui](https://www.womakerscode.org/)
 
