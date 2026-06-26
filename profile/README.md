@@ -4,7 +4,7 @@
 
 ## 👥 Integrantes do Time
 
-<img src="./assets/squad-header.png">
+<img src="../assets/squad-header.png">
 
 
 ---
@@ -13,11 +13,11 @@
 
 | Foto | Nome | Redes sociais | 
 | :---: | :--- | :--- |
-| <img src="./assets/carolini.png" width="90px" style="border-radius: 50%;"> | **Carolini Rufino dos Santos** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinirufino/) |
-| <img src="./assets/claudia.jpeg" width="90px" style="border-radius: 50%;"> | **Claudia Sobral** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-sobral/) |
-| <img src="./assets/marina.jpg" width="90px" style="border-radius: 50%;"> | **Marina Zeni Oliveira Marques Calderan** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinacalderan/) |
-| <img src="./assets/heloisa.jpg" width="90px" style="border-radius: 50%;"> | **Heloisa Sousa Rodrigues** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigues-heloisa/) |
-| <img src="./assets/nagela.jpeg" width="90px" style="border-radius: 50%;"> | **Nagela Martins Souza** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagelamartins/) |
+| <img src="../assets/carolini.png" width="90px" style="border-radius: 50%;"> | **Carolini Rufino dos Santos** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinirufino/) |
+| <img src="../assets/claudia.jpeg" width="90px" style="border-radius: 50%;"> | **Claudia Sobral** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-sobral/) |
+| <img src="../assets/marina.jpg" width="90px" style="border-radius: 50%;"> | **Marina Zeni Oliveira Marques Calderan** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinacalderan/) |
+| <img src="../assets/heloisa.jpg" width="90px" style="border-radius: 50%;"> | **Heloisa Sousa Rodrigues** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigues-heloisa/) |
+| <img src="../assets/nagela.jpeg" width="90px" style="border-radius: 50%;"> | **Nagela Martins Souza** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagelamartins/) |
 
 </table>
 </div>
@@ -30,7 +30,7 @@ Olá! Nós somos a squad Ada Lovelace, cujo nome é inspirado em Augusta Ada Lov
 
 Para chegar até aqui, fizemos um processo seletivo entre 2362 mulheres, que resultou na seleção de vinte pessoas, das quais somos parte, para participarmos desse programa.
 
-<img src="./assets/womakers.png">
+<img src="../assets/womakers.png">
 
 Dentro desse programa, estamos realizando uma formação completa, com teoria e prática, dentro dos variados temas dentro de Data Analytics. Entre eles, alguns são:
 
