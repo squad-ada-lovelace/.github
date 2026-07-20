@@ -4,7 +4,7 @@
 
 ## 👥 Integrantes do Time
 
-<img src="./assets/squad-header.png">
+<img src="./assets/squad_header.png">
 
 
 ---
