@@ -13,10 +13,9 @@
 
 | Foto | Nome | Redes sociais | 
 | :---: | :--- | :--- |
-| <img src="./assets/carolini.png" width="90px" style="border-radius: 50%;"> | **Carolini Rufino dos Santos** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinirufino/) |
 | <img src="./assets/claudia.jpeg" width="90px" style="border-radius: 50%;"> | **Claudia Sobral** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-sobral/) |
-| <img src="./assets/marina.jpg" width="90px" style="border-radius: 50%;"> | **Marina Zeni Oliveira Marques Calderan** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinacalderan/) |
 | <img src="./assets/heloisa.jpg" width="90px" style="border-radius: 50%;"> | **Heloisa Sousa Rodrigues** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigues-heloisa/) |
+| <img src="./assets/marina.jpg" width="90px" style="border-radius: 50%;"> | **Marina Zeni Oliveira Marques Calderan** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinacalderan/) |
 | <img src="./assets/nagela.jpeg" width="90px" style="border-radius: 50%;"> | **Nagela Martins Souza** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagelamartins/) |
 
 </table>
